@@ -4,9 +4,13 @@
 
 ##### 导出地址默认为本地D盘根目录下可在com.jamin.lianjia.util.ExportExcel类excelExport方法中更改
 
+![image](https://github.com/JaminYe/lianjia/blob/master/src/main/resources/export.png)
+
 打开浏览器复制url地址
 
-导入项目后执行ui类中的main方法即可
+导入项目后执行类中UI的主要方法即可
+
+！[image](https://github.com/JaminYe/lianjia/blob/master/src/main/resources/demo.png)
 
 请勿抓取租房主页会报连接超时暂未修复
 粘贴地址后按空格再按回车 否则idea会帮你打开此链接
