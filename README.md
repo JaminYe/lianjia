@@ -10,8 +10,7 @@
 
 导入项目后执行类中UI的主要方法即可
 
-！[image](https://github.com/JaminYe/lianjia/blob/master/src/main/resources/demo.png)
-
+![image](https://github.com/JaminYe/lianjia/blob/master/src/main/resources/demo.png)
 请勿抓取租房主页会报连接超时暂未修复
 粘贴地址后按空格再按回车 否则idea会帮你打开此链接
 设置js加载时间(建议至少为5)
