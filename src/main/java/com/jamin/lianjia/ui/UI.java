@@ -1,4 +1,4 @@
-package com.jamin.lianjia;
+package com.jamin.lianjia.ui;
 
 import com.jamin.lianjia.entity.House;
 import com.jamin.lianjia.util.ExportExcel;

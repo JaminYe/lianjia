@@ -101,7 +101,7 @@ public class Jsoup {
         // 遍历元素
         int j = 0;
         for (Element element : select) {
-          i++;
+          j++;
           System.out.println("正在抓取第" + i + "页的第" + j + "条数据");
 
           // 获得标题
